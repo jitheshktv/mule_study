@@ -17,3 +17,13 @@ https://blogs.mulesoft.com/dev/howto/how-to-apply-dataweave-to-the-real-world-fu
 https://blogs.mulesoft.com/dev/howto/how-to-apply-dataweave-to-the-real-world-looping-part-3/
 
 http://mulementor.blogspot.sg/2016/04/mulesoft-dataweave-for-faster-and.html -- dataweave
+
+https://abhi99sh.wordpress.com/2017/05/12/deploy-mule-application-on-mule-standalone-runtime/
+
+https://blogs.mulesoft.com/dev/training-talks/how-to-format-numbers-in-dataweave/
+
+https://estebanwasinger.wordpress.com/2015/12/31/dataweave-examples-customize-csv-output/
+
+https://inteygrate.com/salesforce-and-mulesoft-interaction-2/
+
+https://dzone.com/articles/mulesoft-basic-authentication-with-https
