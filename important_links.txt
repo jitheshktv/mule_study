@@ -1,0 +1,19 @@
+https://blogs.mulesoft.com/dev/api-dev/dev-guide-how-to-design-reusable-apis-to-save-time-part-1/
+
+https://blogs.mulesoft.com/dev/api-dev/how-to-implement-file-upload-rest-api/
+
+https://blogs.mulesoft.com/dev/anypoint-platform-dev/how-to-automate-api-monitoring-anypoint-design-center-flow-designer/
+
+https://github.com/kianting/apimonitor.git
+
+https://www.mulesoft.com/ty/ebook/restbook-3
+
+https://blogs.mulesoft.com/dev/anypoint-platform-dev/mule-school-the-mulemessage-property-scopes-and-variables/
+
+https://blogs.mulesoft.com/dev/howto/how-to-apply-dataweave-to-the-real-world-variables-part-1/
+
+https://blogs.mulesoft.com/dev/howto/how-to-apply-dataweave-to-the-real-world-functions-part-2/
+
+https://blogs.mulesoft.com/dev/howto/how-to-apply-dataweave-to-the-real-world-looping-part-3/
+
+http://mulementor.blogspot.sg/2016/04/mulesoft-dataweave-for-faster-and.html -- dataweave
