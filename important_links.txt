@@ -27,3 +27,5 @@ https://estebanwasinger.wordpress.com/2015/12/31/dataweave-examples-customize-cs
 https://inteygrate.com/salesforce-and-mulesoft-interaction-2/
 
 https://dzone.com/articles/mulesoft-basic-authentication-with-https
+
+https://blogs.mulesoft.com/dev/training-talks/how-to-fit-an-api-fragment-into-a-raml-api-specification/
